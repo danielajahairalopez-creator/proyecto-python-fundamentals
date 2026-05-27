@@ -44,7 +44,7 @@ if opcion == "Home":
     ---
     ### **Información del Estudiante**
     * **Módulo:** Módulo 1 - Python Fundamentals
-    * **Estudiate:** MSc. Daniela Jahaira Lopez Meza
+    * **Estudiate:** Daniela Jahaira Lopez Meza
     * **Año:** 2026
     
     ### **Descripción del Proyecto**
