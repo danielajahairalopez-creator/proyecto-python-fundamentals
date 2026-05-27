@@ -39,7 +39,6 @@ opcion = st.sidebar.selectbox(
 if opcion == "Home":
     st.title("Proyecto Aplicado - Fundamentos de Programación")
     st.subheader("Especialización en Python for Analytics")
-    st.image("DMC INSTITUTE.png", caption="Metodología DAC", use_container_width=True)
     
     st.markdown("""
     ---
