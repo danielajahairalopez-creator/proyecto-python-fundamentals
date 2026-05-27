@@ -44,7 +44,7 @@ if opcion == "Home":
     ---
     ### **Información del Estudiante**
     * **Módulo:** Módulo 1 - Python Fundamentals
-    * **Docente:** MSc. Carlos Carrillo Villavicencio
+    * **Estudiate:** MSc. Daniela Jahaira Lopez Meza
     * **Año:** 2026
     
     ### **Descripción del Proyecto**
